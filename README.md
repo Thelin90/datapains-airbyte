@@ -65,11 +65,11 @@ I also make sure resources are low for `jobs` to keep resources down as I run lo
   jobs:
     resources:
       limits:
-        memory: 500Mi
-        cpu: "0.1"
+        memory: 2Gi
+        cpu: "0.2"
 
       requests:
-        memory: 100Mi
+        memory: 1Gi
         cpu: "0.1"
 ```
 
