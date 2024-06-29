@@ -55,7 +55,7 @@ The only thing I have done is to expose the airbyte web app locally via `NodePor
     type: NodePort
     port: 80
     targetPort: 80
-    nodePort: 9099
+    nodePort: 32767
     annotations: {}
 ```
 
