@@ -1,6 +1,8 @@
 # DataPains Airbyte
 
-[Corresponding Youtube Tutorial](...)
+[Corresponding Youtube Tutorial](https://www.youtube.com/watch?v=fnPO9c8WOro)
+
+[Airbyte Review Youtube Video](https://youtu.be/gHTxq6advBE?si=8WBfsvPIQgHki9Nb)
 
 # Pre Requisites
 
